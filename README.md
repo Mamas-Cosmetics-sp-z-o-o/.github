@@ -8,7 +8,7 @@ Mamas Cosmetics Sp. z o.o. is a B2B wholesale distributor based in Kraków, Pola
 
 ## What We Offer
 
-- 🛒 **Wide product catalog** — 1,500+ SKUs and growing
+- 🛒 **Wide product catalog** — 4,500+ SKUs and growing
 - 💰 **Competitive B2B pricing** with volume discounts
 - 🤝 **Flexible partnership models** tailored to your scale
 - 🚚 **Reliable fulfillment** from our Kraków warehouse
@@ -16,7 +16,7 @@ Mamas Cosmetics Sp. z o.o. is a B2B wholesale distributor based in Kraków, Pola
 
 ## Our Scale
 
-- 📦 **60,000+ B2C orders dispatched monthly** across Europe
+- 📦 **70,000+ B2C orders dispatched monthly** across Europe
 - 🏆 **#1 seller in Dermocosmetics** on Allegro.pl
 - 🌍 **51,000+ products delivered** via eBay.com
 - 📈 Continuously expanding into new markets and channels
